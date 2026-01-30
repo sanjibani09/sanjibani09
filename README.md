@@ -1,9 +1,8 @@
-# Hi 👋, I'm Sanjibani Paul  
+# Hi , I'm Sanjibani Paul  
 
 ##  About Me  
 I am a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning** at Chandigarh University.  
-I enjoy building practical projects using **Python and Machine Learning** , *Cybersecurity* and exploring areas like **Deep Learning, Computer Vision, and Cyberattacks**..  
-I am currently focused on improving my skills through hands-on projects for internships and placements.
+I enjoy building practical projects using **Python and Machine Learning** , *Cybersecurity* and exploring areas like **Deep Learning, Computer Vision, and Cyberattacks**. 
 
 ## 🛠️ Skills  
 
@@ -13,7 +12,8 @@ I am currently focused on improving my skills through hands-on projects for inte
 - C
 - C++
 - HTML CSS
-- Networking
+- Computer Networking
+- Phishing Detection
 
 **AI / Machine Learning:**  
 - Machine Learning Algorithms  
