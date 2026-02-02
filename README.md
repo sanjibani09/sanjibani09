@@ -12,6 +12,7 @@ I enjoy building practical projects using **Python and Machine Learning** , *Cyb
 - C
 - C++
 - HTML CSS
+- JavaScript(basic)
 - Computer Networking
 - Phishing Detection
 
